@@ -1,22 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Delete%20Account%20Bot&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=✘%20𝙍𝘼𝙑𝙀𝙉%20|%20@P_X_24&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:16213e,100:0f3460&height=220&section=header&text=Echo%20Collector%20Bot&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=✘%20𝙍𝘼𝙑𝙀𝙉%20|%20@P_X_24&descAlignY=62&descSize=20&animation=twinkling" />
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Developer-✘%20𝙍𝘼𝙑𝙀𝙉-0d0d0d?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/P_X_24)
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Pyrogram](https://img.shields.io/badge/Pyrogram-Latest-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://pyrogram.org)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+<a href="https://t.me/P_X_24">
+  <img src="https://img.shields.io/badge/المطور-✘%20𝙍𝘼𝙑𝙀𝙉-0d0d0d?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://t.me/P_X_24">
+  <img src="https://img.shields.io/badge/Telegram-@P__X__24-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://python-telegram-bot.org/">
+  <img src="https://img.shields.io/badge/python--telegram--bot-Latest-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://docs.telethon.dev/">
+  <img src="https://img.shields.io/badge/Telethon-Latest-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="LICENSE">
+  <img src="https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
-```
-╔══════════════════════════════════════════════════════╗
-║         بوت حذف حسابات تيليجرام بشكل آمن            ║
-║      Safely Delete Your Telegram Account via Bot     ║
-╚══════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Echo+Collector+Bot+%F0%9F%A4%96;Multi-Account+Telegram+Manager;Points+%7C+Boost+%7C+Spam+%7C+Collect;Built+by+%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89" />
 
 </div>
 
@@ -26,13 +35,13 @@
 
 ## 🌐 اللغة | Language
 
-**[العربية](#-نظرة-عامة)** | **[English](#-overview)**
+**[العربية](#-نظرة-عامة)** &nbsp;|&nbsp; **[English](#-overview)**
 
 ---
 
 ## 📌 نظرة عامة
 
-بوت تيليجرام متكامل يتيح للمستخدمين حذف حساباتهم على تيليجرام بشكل آمن وسريع من خلال واجهة تفاعلية بسيطة، مبني بـ **Python** و **Pyrogram**.
+بوت تيليجرام متكامل لإدارة حسابات متعددة وتجميع النقاط وتعزيز المنشورات، مبني بـ **Python** مع **python-telegram-bot** و **Telethon**.
 
 ---
 
@@ -40,11 +49,14 @@
 
 | الميزة | الوصف |
 |--------|-------|
-| 🔐 **تسجيل دخول آمن** | دعم كامل لرقم الهاتف + كود التحقق + كلمة المرور |
-| 🗑️ **حذف فوري** | حذف الحساب مباشرة عبر Telegram MTProto API |
-| 🔒 **خصوصية تامة** | لا يتم تخزين أي بيانات أو جلسات |
-| ⚡ **سرعة عالية** | مبني على Pyrogram لأقصى أداء |
-| 🛡️ **معالجة الأخطاء** | تغطية كاملة لجميع حالات الخطأ |
+| 👥 **إدارة حسابات متعددة** | إضافة وحذف وإدارة حسابات تيليجرام |
+| 🏆 **تجميع النقاط** | تجميع تلقائي من بوتات متعددة |
+| 📢 **رشق القنوات** | انضمام ومغادرة القنوات بالجملة |
+| 👍 **رشق التصويت** | تعزيز التصويتات والمشاهدات والاستفتاءات |
+| 💬 **إرسال سبام** | إرسال رسائل متعددة لأهداف محددة |
+| 🔐 **نظام صلاحيات** | Sudo / Admin / VIP / Trial |
+| ⏱️ **فترة تجريبية** | تفعيل تلقائي للمستخدمين الجدد |
+| ⚙️ **لوحة تحكم** | إدارة كاملة للبوت من داخل تيليجرام |
 
 ---
 
@@ -60,9 +72,10 @@
 
 | المتغير | الوصف | المصدر |
 |---------|-------|--------|
-| `ELHYBA` | توكن البوت | [@BotFather](https://t.me/BotFather) |
+| `BOT_TOKEN` | توكن البوت | [@BotFather](https://t.me/BotFather) |
 | `API_ID` | معرف التطبيق | [my.telegram.org](https://my.telegram.org) |
 | `API_HASH` | هاش التطبيق | [my.telegram.org](https://my.telegram.org) |
+| `SUDO_ID` | معرف المالك | Telegram User ID |
 
 ---
 
@@ -70,8 +83,8 @@
 
 **1. استنساخ المشروع**
 ```bash
-git clone https://github.com/P_X_24/delete-account-bot
-cd delete-account-bot
+git clone https://github.com/hsh34811-hash/echo-collector-bot
+cd echo-collector-bot
 ```
 
 **2. تثبيت المكتبات**
@@ -81,27 +94,13 @@ pip install -r requirements.txt
 
 **3. إعداد المتغيرات**
 ```bash
-export ELHYBA="توكن البوت من BotFather"
-export API_ID="معرف التطبيق من my.telegram.org"
-export API_HASH="هاش التطبيق من my.telegram.org"
+cp .env.example .env
+# عدّل ملف .env وضع قيمك الحقيقية
 ```
 
 **4. تشغيل البوت**
 ```bash
-python3 EHYBA.py
-```
-
----
-
-## 📱 طريقة الاستخدام
-
-```
-1. ابدأ البوت بـ /start
-2. اضغط على زر "Delete Account"
-3. أرسل رقم هاتفك بالصيغة الدولية (+20xxxxxxxxxx)
-4. أرسل كود التحقق المرسل لحسابك
-5. أرسل كلمة المرور (إن وجدت)
-6. اضغط "Yes Delete" للتأكيد النهائي
+python3 main.py
 ```
 
 ---
@@ -109,13 +108,15 @@ python3 EHYBA.py
 ## 🗂️ هيكل المشروع
 
 ```
-📁 Delete Account Bot
-├── 📄 EHYBA.py          # الملف الرئيسي للبوت
-├── 📄 mody.py           # إعدادات ومتغيرات البيئة
-├── 📄 requirements.txt  # المكتبات المطلوبة
-├── 📄 Procfile          # إعداد Heroku
-├── 📄 app.json          # إعداد النشر
-└── 📄 README.md         # ملف التوثيق
+📁 Echo Collector Bot
+├── 📄 main.py       # نقطة الدخول الرئيسية
+├── 📄 bot.py        # معالجات الأوامر والأزرار
+├── 📄 client.py     # عمليات Telethon والمهام الخلفية
+├── 📄 config.py     # الإعدادات ومتغيرات البيئة
+├── 📄 data.py       # إدارة البيانات والتخزين
+├── 📄 .env.example  # نموذج متغيرات البيئة
+├── 📄 requirements.txt
+└── 📄 README.md
 ```
 
 ---
@@ -127,19 +128,17 @@ python3 EHYBA.py
 | | |
 |--|--|
 | **الاسم** | ✘ 𝙍𝘼𝙑𝙀𝙉 |
-| **تيليجرام** | [@P_X_24](https://t.me/P_X_24) |
+| **تيليجرام** | [![Telegram](https://img.shields.io/badge/@P__X__24-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/P_X_24) |
 
 </div>
 
 ---
 
 </div>
-
----
 
 ## 📌 Overview
 
-A full-featured Telegram bot that allows users to safely and quickly delete their Telegram accounts through a simple interactive interface, built with **Python** and **Pyrogram**.
+A full-featured Telegram bot for managing multiple accounts, collecting points, and boosting posts — built with **Python**, **python-telegram-bot**, and **Telethon**.
 
 ---
 
@@ -147,18 +146,21 @@ A full-featured Telegram bot that allows users to safely and quickly delete thei
 
 | Feature | Description |
 |---------|-------------|
-| 🔐 **Secure Login** | Full support for phone number + verification code + password |
-| 🗑️ **Instant Deletion** | Delete account directly via Telegram MTProto API |
-| 🔒 **Full Privacy** | No data or sessions are stored |
-| ⚡ **High Performance** | Built on Pyrogram for maximum speed |
-| 🛡️ **Error Handling** | Full coverage of all error cases |
+| 👥 **Multi-Account Management** | Add, delete, and manage Telegram accounts |
+| 🏆 **Points Collection** | Auto-collect from multiple bots |
+| 📢 **Channel Boosting** | Mass join/leave channels |
+| 👍 **Vote Boosting** | Boost votes, views, and polls |
+| 💬 **Spam Sender** | Send bulk messages to targets |
+| 🔐 **Permission System** | Sudo / Admin / VIP / Trial |
+| ⏱️ **Trial Period** | Auto-activate for new users |
+| ⚙️ **Control Panel** | Full bot management via Telegram |
 
 ---
 
 ## 📋 Requirements
 
 - Python **3.10** or newer
-- Account on [my.telegram.org](https://my.telegram.org) to get `API_ID` & `API_HASH`
+- Account on [my.telegram.org](https://my.telegram.org) for `API_ID` & `API_HASH`
 - Telegram bot from [@BotFather](https://t.me/BotFather)
 
 ---
@@ -167,9 +169,10 @@ A full-featured Telegram bot that allows users to safely and quickly delete thei
 
 | Variable | Description | Source |
 |----------|-------------|--------|
-| `ELHYBA` | Bot Token | [@BotFather](https://t.me/BotFather) |
+| `BOT_TOKEN` | Bot Token | [@BotFather](https://t.me/BotFather) |
 | `API_ID` | App ID | [my.telegram.org](https://my.telegram.org) |
 | `API_HASH` | App Hash | [my.telegram.org](https://my.telegram.org) |
+| `SUDO_ID` | Owner ID | Telegram User ID |
 
 ---
 
@@ -177,8 +180,8 @@ A full-featured Telegram bot that allows users to safely and quickly delete thei
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/P_X_24/delete-account-bot
-cd delete-account-bot
+git clone https://github.com/hsh34811-hash/echo-collector-bot
+cd echo-collector-bot
 ```
 
 **2. Install dependencies**
@@ -186,29 +189,15 @@ cd delete-account-bot
 pip install -r requirements.txt
 ```
 
-**3. Set environment variables**
+**3. Setup environment**
 ```bash
-export ELHYBA="Your bot token from BotFather"
-export API_ID="Your App ID from my.telegram.org"
-export API_HASH="Your App Hash from my.telegram.org"
+cp .env.example .env
+# Edit .env and fill in your values
 ```
 
 **4. Run the bot**
 ```bash
-python3 EHYBA.py
-```
-
----
-
-## 📱 How to Use
-
-```
-1. Start the bot with /start
-2. Press "Delete Account" button
-3. Send your phone number in international format (+20xxxxxxxxxx)
-4. Send the verification code sent to your account
-5. Send your password (if enabled)
-6. Press "Yes Delete" to confirm
+python3 main.py
 ```
 
 ---
@@ -216,13 +205,15 @@ python3 EHYBA.py
 ## 🗂️ Project Structure
 
 ```
-📁 Delete Account Bot
-├── 📄 EHYBA.py          # Main bot file
-├── 📄 mody.py           # Config & environment variables
-├── 📄 requirements.txt  # Required libraries
-├── 📄 Procfile          # Heroku config
-├── 📄 app.json          # Deploy config
-└── 📄 README.md         # Documentation
+📁 Echo Collector Bot
+├── 📄 main.py       # Entry point
+├── 📄 bot.py        # Command & callback handlers
+├── 📄 client.py     # Telethon operations & background tasks
+├── 📄 config.py     # Config & environment variables
+├── 📄 data.py       # Data management & storage
+├── 📄 .env.example  # Environment variables template
+├── 📄 requirements.txt
+└── 📄 README.md
 ```
 
 ---
@@ -234,7 +225,7 @@ python3 EHYBA.py
 | | |
 |--|--|
 | **Name** | ✘ 𝙍𝘼𝙑𝙀𝙉 |
-| **Telegram** | [@P_X_24](https://t.me/P_X_24) |
+| **Telegram** | [![Telegram](https://img.shields.io/badge/@P__X__24-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/P_X_24) |
 
 </div>
 
@@ -242,7 +233,7 @@ python3 EHYBA.py
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:0d0d0d&height=130&section=footer&animation=twinkling" />
 
 **Made with ❤️ by [✘ 𝙍𝘼𝙑𝙀𝙉](https://t.me/P_X_24)**
 

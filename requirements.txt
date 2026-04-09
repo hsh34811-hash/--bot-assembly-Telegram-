@@ -1,2 +1,4 @@
-pyrogram
-pyromod
+python-telegram-bot==20.7
+telethon
+requests
+httpx
