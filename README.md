@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:16213e,100:0f3460&height=220&section=header&text=Echo%20Collector%20Bot&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=✘%20𝙍𝘼𝙑𝙀𝙉%20|%20@P_X_24&descAlignY=62&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:16213e,100:0f3460&height=220&section=header&text=bot-assembly-Telegram&fontSize=46&fontColor=ffffff&fontAlignY=40&desc=✘%20𝙍𝘼𝙑𝙀𝙉%20|%20@P_X_24&descAlignY=62&descSize=20&animation=twinkling" />
 
 <br/>
 
@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Echo+Collector+Bot+%F0%9F%A4%96;Multi-Account+Telegram+Manager;Points+%7C+Boost+%7C+Spam+%7C+Collect;Built+by+%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=bot-assembly-Telegram+%F0%9F%A4%96;Multi-Account+Telegram+Manager;Points+%7C+Boost+%7C+Spam+%7C+Collect;Built+by+%E2%9C%98+%F0%9D%99%8D%F0%9D%98%BC%F0%9D%99%91%F0%9D%99%80%F0%9D%99%89" />
 
 </div>
 
