@@ -83,8 +83,8 @@
 
 **1. استنساخ المشروع**
 ```bash
-git clone https://github.com/hsh34811-hash/echo-collector-bot
-cd echo-collector-bot
+git clone https://github.com/hsh34811-hash/--bot-assembly-Telegram-.git
+cd --bot-assembly-Telegram-
 ```
 
 **2. تثبيت المكتبات**
@@ -180,8 +180,8 @@ A full-featured Telegram bot for managing multiple accounts, collecting points, 
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/hsh34811-hash/echo-collector-bot
-cd echo-collector-bot
+git clone https://github.com/hsh34811-hash/--bot-assembly-Telegram-.git
+cd --bot-assembly-Telegram-
 ```
 
 **2. Install dependencies**
